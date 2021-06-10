@@ -1,7 +1,7 @@
 # Go Arrow Unmarshal
 
-[![Actions Status](https://github.com/antewall/arrow-unmarshal/workflows/test/badge.svg)](https://github.com/<github_username>/<repo>/actions)
-[![codecov](https://codecov.io/gh/antewall/arrow-unmarshal/branch/master/graph/badge.svg)](https://codecov.io/gh/<github_username>/<repo>)
+[![Actions Status](https://github.com/antewall/arrow-unmarshal/workflows/test/badge.svg)](https://github.com/antewall/arrow-unmarshal/actions)
+[![codecov](https://codecov.io/gh/antewall/arrow-unmarshal/branch/master/graph/badge.svg)](https://codecov.io/gh/antewall/arrow-unmarshal)
 
 Go package to unmarshal arrow records into array of structs. Can use tags to specify fields
 
