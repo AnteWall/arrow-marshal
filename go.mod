@@ -1,4 +1,4 @@
-module arrow-marshal
+module github.com/antewall/arrow-marshal
 
 go 1.16
 
